@@ -13,11 +13,15 @@
 - [Author](#author)
 
 
+
 ### Screenshot
 
 <img width="1437" alt="Screenshot 2023-02-04 at 23 25 26" src="https://user-images.githubusercontent.com/67371847/216786074-591fc8ac-7f65-454f-a6a6-bff8826d0fe9.png">
-<img width="224" alt="Screenshot 2023-02-04 at<img width="382" alt="Screenshot 2023-02-04 at 23 39 07" src="https://user-images.githubusercontent.com/67371847/216786597-723353d9-5de2-4064-8654-3e35c0b0d408.png">
- 23 31 53" src="https://user-images.githubusercontent.com/67371847/216786275-6ef2d33d-16b2-47dc-a804-74003bc4391e.png"> 
+
+<img width="382" alt="Screenshot 2023-02-04 at 23 39 07" src="https://user-images.githubusercontent.com/67371847/216786622-4770bdf9-4ee5-45fa-a5bc-579637261405.png">
+
+<img width="224" alt="Screenshot 2023-02-04 at 23 31 53" src="https://user-images.githubusercontent.com/67371847/216786632-0ac35f12-9b24-47ce-9598-10e165c59836.png">
+
 
 
 
