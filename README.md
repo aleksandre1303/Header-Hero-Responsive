@@ -25,7 +25,7 @@
 ### Links
 
 - Solution URL:  https://github.com/aleksandre1303/Uranus-responsive-page
-- Live Site URL: https://aleksandre1303.github.io/Uranus-responsive-page/
+- Live Site URL: https://aleksandre1303.github.io/Header-Hero-Responsive/
 
 
 ## Author
