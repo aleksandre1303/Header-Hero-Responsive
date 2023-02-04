@@ -15,11 +15,7 @@
 
 ### Screenshot
 
-<img width="1400" alt="Hero Element 4" src="https://user-images.githubusercontent.com/67371847/216666607-4e076d70-b300-4635-8e0c-8709c431e3d2.png">
-
-
-<img width="482" alt="Screenshot 2023-02-03 at 21 33 38" src="https://user-images.githubusercontent.com/67371847/216669570-46268de5-dc3a-4026-93d1-57882240cea1.png">.   <img width="482" alt="Screenshot 2023-02-03 at 21 33 53" src="https://user-images.githubusercontent.com/67371847/216669601-fef35090-1639-44cb-8f99-08cef9405e66.png">
-
+<img width="1437" alt="Screenshot 2023-02-04 at 23 25 26" src="https://user-images.githubusercontent.com/67371847/216786074-591fc8ac-7f65-454f-a6a6-bff8826d0fe9.png"> <img width="224" alt="Screenshot 2023-02-04 at 23 31 53" src="https://user-images.githubusercontent.com/67371847/216786275-6ef2d33d-16b2-47dc-a804-74003bc4391e.png">
 
 
 ### Links
@@ -45,9 +41,8 @@
 
 ### What I learned
 
-For me, this project was much more complex than previous projects.
-Because for the first time I used media query to make the page responsive,
-I know there are many more challenges ahead 🚀🚀✊
+I learned better how to make the page responsive with flexbox, 
+this is my second responsive page 🚀🚀✊
 
 
 ## Author
